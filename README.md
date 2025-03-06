@@ -9,4 +9,4 @@ cd sureshare
 
 pip install requests rich colorama
 
-python app.py
+python spam.py
